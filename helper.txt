@@ -1,0 +1,16 @@
+- Create a New
+git init
+- Deleting The repo
+rm -rf .git
+
+- Add a new repository link
+git remote add origin https://github.com/DataPsycho/portfolio.git
+- Check the git is correct or not
+git remote -v
+
+- Config user
+git config --local user.name "nafeesahyounis"
+git config --local user.email "nafeesah.youniss@gmail.com"
+
+- Manually open the .git/config
+open -e .git/config
