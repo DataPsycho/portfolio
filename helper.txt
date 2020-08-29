@@ -9,8 +9,8 @@ git remote add origin https://github.com/DataPsycho/portfolio.git
 git remote -v
 
 - Config user
-git config --local user.name "nafeesahyounis"
-git config --local user.email "nafeesah.youniss@gmail.com"
+git config --local user.name ""
+git config --local user.email ""
 
 - Manually open the .git/config
 open -e .git/config
